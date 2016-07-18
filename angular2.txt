@@ -1,0 +1,77 @@
+---------       Basic      -------------------------
+
+https://plnkr.co/edit/QaIEM65TdYVGO9m1IUCB?p=preview
+
+http://www.angular2.com/
+
+http://antjanus.com/blog/tutorials/the-beginners-preemptive-guide-to-angularjs-2-alpha/
+
+http://www.developer.com/services/writing-my-first-angularjs-2-app.html
+
+https://tests4geeks.com/tutorials/angular-2-tutorial/ (traffic Light app)
+
+*** http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
+
+http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
+
+https://www.nativescript.org/blog/details/angular-2.0-running-in-a-native-mobile-app-using-nativescript
+
+https://github.com/AngularClass/awesome-angular2
+
+
+-------------    Difference of ng1 and ng2 -------------
+
+http://www.talkingdotnet.com/difference-between-angular-1-x-and-angular-2/
+
+http://www.codingpedia.org/jhadesdev/angular-1-vs-angular-2-a-high-level-comparison/
+
+https://objectpartners.com/2015/09/24/angular-2-vs-angular-1/
+
+
+
+--------    Routing   ----------------------
+
+http://www.barbarianmeetscoding.com/blog/2016/07/07/updating-your-angular-2-app-to-use-the-new-router/
+
+
+---------    HTTP   -----------------------
+
+http://www.syntaxsuccess.com/viewarticle/angular-2.0-and-http
+
+
+
+--------    JWT    ------------------------
+
+https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.t1t9jujq9
+https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/
+http://4dev.tech/2016/03/login-screen-and-authentication-with-angular2/
+****  http://youknowriad.github.io/angular2-cookbooks/stateless-authentication.html
+http://kaalpurush.github.io/ng2/
+
+
+
+
+---------   Examples   --------------------
+
+http://www.code-sample.com/2015/07/angularjs-2-documentation-with-example.html
+
+https://objectpartners.com/2015/12/15/tutorial-creating-an-angular-2-0-todo-app/
+
+https://github.com/born2net/ng2Boilerplate
+
+https://github.com/ericmdantas/angular2-typescript-todo
+
+****  https://github.com/primefaces/primeng
+
+https://github.com/daviddt/angular2-form-validation-example/blob/master
+
+https://docs.google.com/document/u/1/d/1RIezQqE4aEhBRmArIAS1mRIZtWFf6JxN_7B4meyWK0Y/pub
+
+
+
+
+
+
+
+
+
